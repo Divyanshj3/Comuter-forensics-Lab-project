@@ -1,0 +1,51 @@
+ÿCreated By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: grad lab
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for E:\john2020:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 114,366,949
+[Physical Drive Information]
+ Removable drive: False
+ Source data size: 55843 MB
+ Sector count:    114366949
+[Computed Hashes]
+ MD5 checksum:    d08de541b9e0666005790acfcd8be51d
+ SHA1 checksum:   54d62cd5744b4694751347be51a94dbce91f7a0f
+
+Image Information:
+ Acquisition started:   Wed Nov 29 00:44:55 2023
+ Acquisition finished:  Wed Nov 29 00:48:26 2023
+ Segment list:
+  E:\john2020.E01
+
+Image Verification Results:
+ Verification started:  Wed Nov 29 00:48:26 2023
+ Verification finished: Wed Nov 29 00:52:08 2023
+ MD5 checksum:    d08de541b9e0666005790acfcd8be51d : verified
+ SHA1 checksum:   54d62cd5744b4694751347be51a94dbce91f7a0f : verified
+
+Image Verification Results:
+ Verification started:  Wed Nov 29 17:30:00 2023
+ Verification finished: Wed Nov 29 17:32:35 2023
+ MD5 checksum:    d08de541b9e0666005790acfcd8be51d : verified
+ SHA1 checksum:   54d62cd5744b4694751347be51a94dbce91f7a0f : verified
+
+Image Verification Results:
+ Verification started:  Wed Nov 29 22:43:33 2023
+ Verification finished: Wed Nov 29 22:46:22 2023
+ MD5 checksum:    d08de541b9e0666005790acfcd8be51d : verified
+ SHA1 checksum:   54d62cd5744b4694751347be51a94dbce91f7a0f : verified
